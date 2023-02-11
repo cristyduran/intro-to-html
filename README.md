@@ -3,4 +3,5 @@
 ## Skills
 * HTML
 
-[view here](https://cristyduran.github.io/module1/)
+Created an HTML page in VS Code.
+[view here](https://cristyduran.github.io/intro-to-html/)
